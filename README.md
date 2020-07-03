@@ -1,5 +1,5 @@
 # Solutions for Codewars ✔️
-<img src="https://www.codewars.com/users/voltgizerz/badges/large" width="500" height="333"><br>
+<img src="https://www.codewars.com/users/voltgizerz/badges/large"><br>
 Made only for fun and learning to code better 😃
 
 # Disclaimer ⚠️
