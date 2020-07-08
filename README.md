@@ -5,7 +5,7 @@ Made only for fun and learning to code better 😃
 # Disclaimer ⚠️
 Several solutions maybe not the best solutions you need! 
 
-# Links  ⚠️
-- `Find your Problem <https://github.com/voltgizerz/CodeWarsSolutions/find/master>`_
+# Links 🧐
+- [Find your Problem](https://github.com/voltgizerz/CodeWarsSolutions/find/master) 
 
 
