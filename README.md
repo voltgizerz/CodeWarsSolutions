@@ -3,7 +3,7 @@ Codewars is a community of developers, who are called Code Warriors (or just war
 
 # Disclaimer ⚠️
 <img src="https://www.codewars.com/users/voltgizerz/badges/large"><br>
-- Total Completed Kata: <b>294</b> 🔨
+- Total Completed Kata: <b>349</b> 🔨
 - Made only for fun and learning to code better 😃
 - Several solutions maybe not the best solutions you need! 
 
